@@ -19,12 +19,12 @@ issued.
 The following details are required while creating a new record :
 
                 1) Book ID - every book in the library has a unique identity to distinguish them from other
- 		      books. This Id is also required while returning the book.
-	2) Issue duration - the period for which the student wants to issue the book.
-	3) Branch - the branch in which the student is studying.
-	4) Roll number - the student's roll number.
-	5) Mobile number - the mobile number of the student.
-	6) Date - the date of issue is also recorded.
+ 		     	     books.This Id is also required while returning the book.
+		2) Issue duration - the period for which the student wants to issue the book.
+		3) Branch - the branch in which the student is studying.
+		4) Roll number - the student's roll number.
+		5) Mobile number - the mobile number of the student.
+		6) Date - the date of issue is also recorded.
 
 ii)deleteRecord() : This function is used to delete a record when the student returns the book.
 
